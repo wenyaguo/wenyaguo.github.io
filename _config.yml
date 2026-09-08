@@ -705,12 +705,19 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
   - projects
   - volunteer
-  - awards
-  - certificates
-  - skills
   - languages
   - interests
-  - references
+#  - basics
+#  - work
+#  - education
+##  - publications
+#  - projects
+#  - volunteer
+##  - awards
+##  - certificates
+##  - skills
+#  - languages
+#  - interests
+##  - references
