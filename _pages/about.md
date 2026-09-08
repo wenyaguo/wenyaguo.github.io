@@ -17,21 +17,24 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
 latest_posts:
   enabled: false
+  scrollable: true
+  limit: 3
 ---
 
 I am an Associate Professor at the **College of Computer Science, Nankai University**. I received my Ph.D. degree from Nankai University in 2022, under the supervision of Prof. Xiaojie Yuan.
 
-My research interests lie broadly in artificial intelligence, with a particular focus on:
+My research interests include:
 
-- **Large Language Models**
-- **Code Intelligence**
+- **Sentiment Computing**
+- **Multimodal Large Language Models**
+- **Data Intelligence**
 
-My recent research focuses on large language models, reasoning, and intelligent code generation. I have also worked on multimodal learning, vision-language understanding, and knowledge-enhanced artificial intelligence.
+My research focuses on developing intelligent methods for understanding, reasoning, and learning from multimodal and complex data. I am particularly interested in sentiment and affective understanding, multimodal large language models, and data-centric intelligent systems.
 
-I am always looking for self-motivated students interested in large language models and code intelligence. Please feel free to contact me via email.
+I am always looking for self-motivated students interested in these research topics. Please feel free to contact me via email.
