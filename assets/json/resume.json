@@ -64,18 +64,7 @@
 
   "publications": [],
 
-  "skills": [
-    {
-      "name": "Research Interests",
-      "level": "",
-      "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Sentiment Computing",
-        "Multimodal Large Language Models",
-        "Data Intelligence"
-      ]
-    }
-  ],
+  "skills": [],
 
   "languages": [],
 
