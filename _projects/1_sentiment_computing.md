@@ -4,7 +4,7 @@ title: Sentiment Computing
 description: Understanding human sentiment and affect from multimodal data.
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 My research in **Sentiment Computing** focuses on understanding human sentiment, opinions, and affective information from complex and multimodal data.

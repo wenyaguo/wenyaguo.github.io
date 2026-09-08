@@ -4,7 +4,7 @@ title: Data Intelligence
 description: Learning, reasoning, and decision-making from complex and heterogeneous data.
 importance: 3
 category: work
-related_publications: true
+related_publications: false
 ---
 
 My research in **Data Intelligence** focuses on developing intelligent methods for learning, reasoning, and decision-making from complex, heterogeneous, and evolving data.

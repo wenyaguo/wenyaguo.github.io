@@ -4,7 +4,7 @@ title: Multimodal Large Language Models
 description: Multimodal understanding, reasoning, and generation with large language models.
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 My research in **Multimodal Large Language Models** focuses on enabling foundation models to understand, reason over, and generate multimodal information.
